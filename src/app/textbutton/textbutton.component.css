@@ -1,0 +1,9 @@
+.hide
+{
+    display:none;
+}
+.flexBox
+{
+    display: flex;
+    width: 100%;
+}
